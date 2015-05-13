@@ -12,6 +12,10 @@
 
 ##40123143
 
+
+
+5615156151351
+
 期中報告
 組 Github 倉儲後, 即可開始透過 issues 功能進行專案管理), 例如: 2015cd waffle.io 專案連結, https://waffle.io/coursemdetw/2015cd
 
