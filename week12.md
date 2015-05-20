@@ -6,7 +6,6 @@
 
 [gitbook](http://40123248.gitbooks.io/2015cdb_g10/content/week11.html)
 
-
 40123248
 
 這週我們起先先研究出上次期中報告沒辦法畫出的第二個齒輪的問題
