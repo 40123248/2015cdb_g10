@@ -52,11 +52,46 @@ gear(400,400 + ''' + str(2*total) +','+ str(b) +  ''',"blue")
 40123143
 
 
+自動組立過程
+
+照著影片 先將main跟main2下載下來放入自己的資料內 開始修改程式碼
+
+發現問題
+
+1.
+```
+<meta http-equiv="content-type"
+content="text/html;charset=utf-8">
+<script type="text/javascript"
+src="/static/weblink/wl_header.js"></script>
+<script type="text/javascript"
+src="/static/weblink/pfcUtils.js"></script>
+```
     
-    
-    
-    
-    
+這邊的問題是 原本的程式碼的路徑叫出並不正確 修改後再貼上
+
+2.
+
+```
+var descr = pfcCreate("pfcModelDescriptor").CreateFromFileName ("v:/home/lego/man/"+part2);
+```
+
+將樂高的零組件解壓縮到這個路徑的資料夾(lego)內就可以了
+
+3.
+creo壞了
+
+開不起來 好像是沒購買
+
+評分
+
+第10組  2015cdb_g10 組別自評19分
+
+40123248  自評19分 
+
+心得: 將上次的作業完成了 有成就感             這次因為美中不足的是不能開creo 只有手動組立的影片 所以自評19
+
+
     
     
     
