@@ -45,6 +45,6 @@ JavaScript 參考資料: http://cpgroup.kmol.info/public/javascript/, 只能在�
    這周將小人偶自動組立完成，齒輪的部分還在研究，這周進度較少且還沒有成果，自評14分
    
    本周手寫筆記
-   
+   ![](05.jpg)
 
 40123143
